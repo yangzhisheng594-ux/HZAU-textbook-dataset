@@ -1,0 +1,8 @@
+﻿_pdf文本/
+*.log
+_fetch_v3*.log
+__pycache__/
+*.pyc
+.DS_Store
+
+showcase.html
